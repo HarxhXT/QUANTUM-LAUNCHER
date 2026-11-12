@@ -1,4 +1,4 @@
-⚡ QUANTEM LAUNCHER
+⚡ QUANTUM LAUNCHER
 
 Redefining Minecraft Java Edition on Android.
 
@@ -10,11 +10,11 @@ Redefining Minecraft Java Edition on Android.
 
 🚀 About the Project
 
-QUANTEM LAUNCHER is a next-generation Minecraft Java Edition launcher being developed specifically for Android devices.
+QUANTUM LAUNCHER is a next-generation Minecraft Java Edition launcher being developed specifically for Android devices.
 
 Our goal is to bring a powerful, lightweight, customizable, and premium Minecraft Java experience to mobile users through modern technology and thoughtful engineering.
 
-Combining Rust and Kotlin, QUANTEM aims to deliver an integrated launcher experience with game management, account options, content discovery, performance configuration, and advanced customization.
+Combining Rust and Kotlin, QUANTUM aims to deliver an integrated launcher experience with game management, account options, content discovery, performance configuration, and advanced customization.
 
 One Launcher. Three Account Options. Endless Possibilities.
 
@@ -165,7 +165,7 @@ The project is currently under development. Contribution guidelines and collabor
 
 ⚠️ Disclaimer
 
-QUANTEM LAUNCHER is an independent project and is not affiliated with, endorsed by, or officially connected to Mojang Studios or Microsoft.
+QUANTUM LAUNCHER is an independent project and is not affiliated with, endorsed by, or officially connected to Mojang Studios or Microsoft.
 
 Minecraft is a trademark of Mojang Studios.
 
@@ -177,6 +177,6 @@ We aim to create a complete Minecraft Java launcher for Android that combines pe
 
 Built with ambition. Engineered for performance. Designed for Minecraft players.
 
-QUANTEM LAUNCHER
+QUANTUM LAUNCHER
 
 Minecraft Java. Reimagined for Android.
